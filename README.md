@@ -12,7 +12,7 @@ Implementing gradient ascent (inverted gradient descent); identifying convergenc
 Exploratory and dif-in-dif analyses of the Progresa education/poverty policy program
 
 ## Assignment 4
-Exploratory analysis, feature engineering, and determining the most effective estimators for features from the [Wisconsin Breast Cancer Dataset (WBCD)](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+Exploratory analysis, feature engineering, and determining the most effective estimators for features from the [Wisconsin Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
 ## Assignment 5
 Feature selection using different heuristics on the Boston housing dataset (`from sklearn.datasets import load_boston`); including full model, forward selection, PCA on raw data, and PCA on normalized data
